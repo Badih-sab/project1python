@@ -20,3 +20,4 @@ def count_words(text):
 sentence = input("Enter a sentence: ")
 result = count_words(sentence)
 print(result)
+#thankyou
